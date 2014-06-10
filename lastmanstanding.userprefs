@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lastmanstanding/Main.cs">
+    <Files>
+      <File FileName="lastmanstanding/Main.cs" Line="97" Column="28" />
+      <File FileName="lastmanstanding/Input.cs" Line="344" Column="5" />
+      <File FileName="lastmanstanding/Configuration.cs" Line="90" Column="22" />
+      <File FileName="lastmanstanding/bin/Debug/config.cfg" Line="7" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

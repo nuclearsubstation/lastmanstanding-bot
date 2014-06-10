@@ -1,0 +1,5 @@
+/home/microchip/OpBot/OpBot/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/microchip/OpBot/OpBot/bin/Debug/OpBot.exe.mdb
+/home/microchip/OpBot/OpBot/bin/Debug/OpBot.exe
+/home/microchip/OpBot/OpBot/obj/x86/Debug/OpBot.exe
+/home/microchip/OpBot/OpBot/obj/x86/Debug/OpBot.exe.mdb
